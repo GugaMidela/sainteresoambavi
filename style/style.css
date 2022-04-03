@@ -1,0 +1,271 @@
+main {
+  padding: 30px;
+}
+.gugaguga {
+  width: 100%;
+}
+
+footer {
+  padding: 30px;
+}
+.guga {
+  vertical-align: center;
+}
+.arh2 {
+  padding: 30px;
+}
+
+.header {
+  padding-bottom: 22px;
+}
+.header li {
+  padding-bottom: 10px;
+  color: #3d58a6;
+  font-size: 22px;
+  vertical-align: center;
+  font-family: Mtavruli;
+}
+.header .guga1 {
+  color: #ee4036;
+  font-size: 22px;
+}
+
+/* ToDO */
+.class {
+  vertical-align: top;
+}
+
+footer img {
+  height: 30px;
+  width: auto;
+  margin-top: 30.6px;
+}
+.fb {
+  padding-left: 10px;
+}
+
+.yt {
+  padding-left: 10px;
+}
+.date .date-number {
+  background-color: #3d58a6;
+  margin: 13px 0px;
+  padding: 13px;
+  display: inline-block;
+  color: white;
+}
+
+.date .satauri {
+  font-size: 22px;
+  color: #3d58a6;
+}
+.seqcia2 h3 {
+  margin: 13.5px 0px;
+}
+.seqcia2 .text {
+  font-size: 16px;
+  padding-top: 20px;
+}
+footer img {
+  height: 30px;
+  width: auto;
+  margin-top: 30.6px;
+}
+.fb {
+  padding-right: 35px;
+  border-right: 1px solid #363e97;
+}
+
+.yt {
+  padding-left: 35px;
+}
+.date .date-number3 {
+  background-color: #3c549e;
+  margin: 13px 0px;
+  padding: 13px;
+  display: inline-block;
+  color: white;
+}
+
+.date .satauri1 {
+  font-size: 22px;
+  color: #3d58a6;
+}
+.seqcia3 h3 {
+  margin: 13.5px 0px;
+}
+.seqcia3 .text {
+  font-size: 16px;
+  margin: 35px 0px;
+  padding-top: 20px;
+}
+footer img {
+  height: 30px;
+  width: auto;
+}
+.date .date-number4 {
+  background-color: #3c549e;
+  margin: 13px 0px;
+  padding: 13px;
+  display: inline-block;
+  color: white;
+}
+
+.date .satauri3 {
+  font-size: 22px;
+  color: #3d58a6;
+}
+.seqcia4 h4 {
+  margin: 13.5px 0px;
+}
+.seqcia4 .text1 {
+  font-size: 16px;
+  margin: 35px 0px;
+  padding-top: 20px;
+}
+footer img {
+  height: 30px;
+  width: auto;
+}
+.seqcia4 h3 {
+  margin: 13.5px 0px;
+}
+
+span {
+  color: #808080;
+}
+.span .tagi1 {
+  color: #808080;
+}
+span .shavi {
+  color: black;
+}
+.header {
+  display: inline-block;
+  margin-left: 40px;
+}
+.header li {
+  display: inline-block;
+  margin-right: 20px;
+}
+.ar1 div {
+  background-color: #f2f2f2;
+  width: 570px;
+  display: inline-block;
+  padding: 0 20px 20px 20px;
+}
+.ar1 div img {
+  width: 100px;
+  height: 130px;
+}
+
+.ar1 div p {
+  display: inline-block;
+  font-size: 20px;
+  width: 355px;
+  margin-left: 60px;
+  font-family: regular;
+}
+.ar1 div h4 {
+  margin: 20px 0;
+}
+.arh2 {
+  margin-top: 120px;
+  margin-bottom: 30px;
+  font-family: Regular;
+  font-size: 24px;
+}
+.folat-image {
+  float: left;
+  margin: 0 20px 20px 0;
+}
+.main1 {
+  background-color: #e6e6e6;
+}
+.contact-marcxena h3 {
+  color: #3d58a6;
+  font-size: 20px;
+  font-family: regular;
+  margin-bottom: 5px;
+}
+h3 {
+  vertical-align: auto;
+}
+
+.mkratli-text {
+  color: #d3d3d3;
+}
+
+.contact-marcxena {
+  width: 300px;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.contact-marcxena p {
+  display: inline-block;
+  font-size: 16px;
+  font-family: Arial;
+  padding: 2px;
+}
+
+.contact-marcxena {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 123px;
+  margin-top: 20px;
+}
+
+h4 {
+  font-size: 22px;
+  color: #3d58a6;
+  font-family: Regular;
+}
+header {
+  padding: 30px;
+}
+.h33 {
+  font-size: 20px;
+  font-family: Mtavrul;
+}
+.text {
+  font-size: 16px;
+  font-family: Arial;
+  margin-top: 20px;
+  padding: 2px;
+}
+.text1 {
+  font-size: 16px;
+  font-family: Arial;
+  margin-top: 20px;
+  padding: 2px;
+}
+.main1 img {
+  vertical-align: top;
+  margin-top: 20px;
+  margin-left: 39px;
+}
+.main1 li {
+  font-family: Arial;
+  display: inlineblo;
+}
+.marjevena {
+  margin-left: 50px;
+}
+
+.contact-marjvena {
+  display: inline-block;
+  vertical-align: top;
+}
+.marcxena {
+  font-family: regular;
+  font-size: 20px;
+  padding: 1px;
+}
+.mkrtali-text {
+  font-size: 16px;
+  font-family: arial;
+}
+.date {
+  margin-right: 1030px;
+}
